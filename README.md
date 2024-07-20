@@ -1,4 +1,4 @@
-# My AI and ML Projects
+# My AI internship projects
 
 Welcome to my GitHub repository! This repository showcases several projects that I have developed, focusing on artificial intelligence and deep learning. Below are the descriptions and details of each project:
 
